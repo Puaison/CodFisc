@@ -1,5 +1,8 @@
 <?php
 
+//
+// Commento molto simpatico
+//
 
 class Codicedataanno
 {
